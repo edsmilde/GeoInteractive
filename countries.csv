@@ -1,0 +1,95 @@
+﻿meta,key,iso2,continent,frequency,bollard_blackyellow,bollard_blackred,bollard_cement,bollard_thin,bollard_greenwhite,pole_wood,pole_concrete,photo_rift,traffic_right,traffic_left,sign_blue,sign_green,sign_white,sign_yellow,sign_brown,car_with_bars,stop_STOP,stop_ALTO,stop_PARE,stop_ARRET,stop_blank,stop_other,script_cyrillic,script_thai,script_arabic,script_roman,script_other,prevalence_english,prevalence_spanish,prevalence_french,prevalence_other,plateshape_wide,plateshape_standard,lattitude_northern,lattitude_southern,lattitude_tropic,platecolor_yellow,platebadge_none,platebadge_blue_left,platebadge_red_left,platebadge_blue_both,platebadge_blue_yellow,keyAlt1,roadmark_WYW,roadmark_YWY,roadmark_WWW,roadmark_WWYW,roadmark_YYY,roadmark_whitedashed,roadmark_W,roadmark_Y,road_dirt,road_cement,env_desert,env_semiarid,env_deciduous,env_evergreen,env_jungle,env_plains,env_tundra,ground_rocky,ground_red_dirt,top_flat,top_hilly,top_mountain,keyAlt2,arch_bricks,arch_red_roof,arch_orange_roof,arc_flat_roof,arch_adobe,arch_sandstone,arch_stone,arch_red_house,arch_victorian_house,photo_gen1,photo_gen2,photo_gen3,photo_gen4,keyAlt3
+1,__attribute_description,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,__attribute_description,,,,,,,,,,,,,,,,,,,,,,,__attribute_description,,,,,,,,,,,,,,__attribute_description
+1,__attribute_display_name,,,,Black and yellow,Black and red,Cement,Thin snow pole,Green and white,Wood,Concrete,Gen 3 with rifts in sky,Right,Left,Blue,Green,White,Yellow,Brown,Car with bars,STOP,ALTO,PARE,ARRÊT,(Blank),(Other),Cyrillic,Thai,Arabic,Roman,(Other),English,Spanish,French,(other),Wide,Standard,Northern,Southern,Tropic/near equator,Yellow,None,Blue on left,Red on left,Blue on both,"Blue left, yellow right",__attribute_display_name,"White outline, yellow median","Yellow outline, white median","White outline, white median","White outline, yellow and white median","Yellow outline, yellow median",White dashed outlines,White median,Yellow median,Dirt,Cement,Desert,Semi-arid,Temperate/deciduous,Evergreen,Jungle,Plains,Tundra,Rocky,Red dirt,Flat,Hilly,Mountainous,__attribute_display_name,Brick houses,Red roofs,Orange roofs,Flat roofs,Adobe/Stucco,Sandstone buildings,Stone buildings,Red houses,Victorian-style houses,Gen 1,Gen 2,Gen 3,Gen 4,__attribute_display_name
+1,__category_description,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,__category_description,,,,,,,,,,,,,,,,,,,,,,,__category_description,,,,,,,,,,,,,,__category_description
+1,__category_display_name,,,,Bollard:,Bollard:,Bollard:,Bollard:,,Poles:,Poles:,Photo quality:,Drives on:,Drives on:,Road sign color:,Road sign color:,Road sign color:,Road sign color:,Road sign color:,Car style:,Stop sign:,Stop sign:,Stop sign:,Stop sign:,Stop sign:,Stop sign:,Common scripts:,Common scripts:,Common scripts:,Common scripts:,,Prevalent language:,Prevalent language:,Prevalent language:,Prevalent language:,Plate shape:,Plate shape:,Lattitude:,Lattitude:,Lattitude:,Plate color:,Plate badges:,Plate badges:,Plate badges:,Plate badges:,Plate badges:,__category_display_name,Road markings:,Road markings:,Road markings:,Road markings:,Road markings:,Road markings:,Road markings:,Road markings:,Road content:,Road content:,Environment:,Environment:,Environment:,Environment:,Environment:,Environment:,Environment:,Ground:,Ground:,Topography:,Topography:,Topography:,__category_display_name,Architectural features:,Architectural features:,Architectural features:,,,Architectural features:,Architectural features:,Architectural features:,Architectural features:,Photo quality:,Photo quality:,Photo quality:,Photo quality:,__category_display_name
+1,__image,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,__image,,,,,,,,,,,,,,,,,,,,,,,__image,,,,,,,,,,,,,,__image
+0.5,Spain,ES,Europe,200,1,,,,,,,,1,0,1,0,1,1,1,,1,,,,,,0,0,0,1,,,1,,,1,,1,,,,,1,,,,SPAIN,0,0,1,0,0,0,1,0,0,,0.25,0.25,0.25,0,0,0,0,0.5,0,0.3,0.3,0.4,SPAIN,,0.5,0,0.5,,,,,,0,1,1,,Spain
+,Albania,AL,Europe,100,,1,1,,,,,,1,0,1,0,,,,,1,,,,,,0,0,0,1,,,,,,1,,1,,,,,1,1,,,ALBANIA,0,0,1,0,0,0,1,0,0,,0,0.5,0.5,0,0,0,0,1,0,0,0.5,0.5,ALBANIA,,,,,,,,,,0,0,1,,Albania
+,Andorra,AD,Europe,50,,,,,,,,,1,0,1,0,,,,,1,,,,,,0,0,0,1,,,,,,1,,1,,,,,0,,,,ANDORRA,0,0,1,0,0,0,1,0,0,,,,,,,,,,,,,,ANDORRA,,,,,,,,,,0,1,1,,Andorra
+,Argentina,AR,South America,550,,,,,,,,,1,0,0,1,,,,,,,1,,,,0,0,0,1,,,1,,,1,,,1,0.5,,,,,,,ARGENTINA,0.5,0,1,0,0,0,1,0,0,,,,,,,,,,,,,,ARGENTINA,,0.5,,,,,,,,0,0,1,1,Argentina
+,Australia,AU,Oceana,300,,,,,,,,,0,1,0,1,,,,,1,,,,,,0,0,0,1,,1,,,,,,,1,1,,,,,,,AUSTRALIA,1,0,1,0,0,0,0,1,0,,,,,,,,,,,,,,AUSTRALIA,,,,,,,,,,1,1,1,0,Australia
+,Austria,AT,Europe,200,,,,,,,,,1,0,1,0,,,,,1,,,,,,0,0,0,1,,,,,,1,,1,,,,,1,,,,AUSTRIA,0,0,1,0,0,0,1,0,0,,,,,,,,,,,,,,AUSTRIA,,,,,,,,,,0,0,1,,Austria
+,Bangladesh,BD,Asia,100,,,,,,,,,1,0,0,1,,,,1,,,,,,,0,0,0,0,1,,,,,,,1,,1,,,,,,,BANGLADESH,0,0,1,0,0,0,1,0,0,,,,,,,,,,,,,,BANGLADESH,,,,,,,,,,0,0,1,,Bangladesh
+,Belarus,BY,Europe,10,,,,,,,,,1,0,1,0,,,,,1,,,,,,1,0,0,0,,,,,,1,,1,,,,,0,,,,BELARUS,0,0,1,0,0,0,1,0,0,,,,,,,,,,,,,,BELARUS,,,,,,,,,,0,0,1,,Belarus
+,Belgium,BE,Europe,200,,,,,,,,,1,0,1,0,,,,,1,,,,,,0,0,0,1,,,,,,1,,1,,,,,1,,,,BELGIUM,0,0,1,0,0,0,1,0,0,,,,,,,,,,,,,,BELGIUM,1,0.5,,,,,,,,0,1,1,,Belgium
+,Bhutan,BT,Asia,59,,,,,,,,,1,0,0,1,,,,,,,,,,,0,0,0,1,,,,,,,,1,,,,,,,,,BHUTAN,0,0,1,0,0,0,1,0,0,,,,,,,,,,,,,,BHUTAN,,,,,,,,,,0,0,1,,Bhutan
+,Bolivia,BO,South America,250,,,,,,,,,1,0,0,1,,,,,,,1,,,,0,0,0,1,,,1,,,,,,1,1,,,,,,,BOLIVIA,1,0,0,0,0,0,0,1,1,,,,,,,,,,,,,,BOLIVIA,,0.5,,,,,,,,0,0,1,0,Bolivia
+,Botswana,BW,Africa,200,,,,,,,,,0,1,0,1,,,,,,,,,,,0,0,0,1,,1,,,,,,,1,1,,,,,,,BOTSWANA,0,1,0,0,0,0,1,0,0,,,,,,,,,,,,,,BOTSWANA,,,,,,,,,,0,0,1,,Botswana
+,Brazil,BR,South America,700,,,,,,,,,1,0,0,1,,,,,,,1,,,,0,0,0,1,,,,,,,,0.1,0.9,1,,,,,,,BRAZIL,1,0,0,0,0,0,0,1,0,,,,,,,,,,,,,,BRAZIL,,0.5,,,,,,,,0,0,1,1,Brazil
+,Bulgaria,BG,Europe,100,,,,,,,,,1,0,0,1,,,,,1,,,,,,1,0,0,0,,,,,,1,,1,,,,,1,,,,BULGARIA,0,0,1,0,0,0,1,0,0,,,,,,,,,,,,,,BULGARIA,,,,,,,,,,0,0,1,,Bulgaria
+,Cambodia,KH,Asia,200,,,,,,,,,1,0,0,1,,,,,,,,,,,0,1,0,0,,,,,,,,1,,1,1,,,,,,CAMBODIA,1,0,0,0,0,0,0,1,0,,,,,,,,,,,,,,CAMBODIA,,,,,,,,,,0,0,1,,Cambodia
+,Canada,CA,North America,650,,,,,,,,,1,0,0,1,,,,,1,,,1,1,,0,0,0,1,,1,,,,,,1,,,,,,,,,CANADA,1,0,0,0,0,0,0,1,0,,,,,,,,,,,,,,CANADA,0.3,,,,,,,,,0,1,1,1,Canada
+,Chile,CL,South America,300,,,,,,,,,1,0,0,1,,,,,,,1,,,,0,0,0,1,,,1,,,,,,1,0.5,,,,,,,CHILE,1,0,1,0,0,0,0,1,1,,,,,,,,,,,,,,CHILE,,0.5,,,,,,,,0,0,1,0,Chile
+,Colombia,CO,South America,300,,,,,,,,,1,0,0,1,,,,,,,1,,,,0,0,0,1,,,1,,,,,0.9,0.1,1,1,,,,,,COLOMBIA,1,0,0,0,0,0,0,1,0,,,,,,,,,,,,,,COLOMBIA,,0.5,,,,,,,,0,0,1,0,Colombia
+,Costa Rica,CR,North America,10,,,,,,,,,1,0,0,1,,,,,,1,,,,,0,0,0,1,,,1,,,,,1,,1,,,,,,,COSTA RICA,1,0,0,0,0,0,0,1,0,,,,,,,,,,,,,,COSTA RICA,,0.5,,,,,,,,0,0,1,0,Costa Rica
+,Croatia,HR,Europe,100,,,,,,,,,1,0,0,1,,,,,1,,,,,,0,0,0,1,,,,,,1,,1,,,,,0.25,,,,CROATIA,0,0,1,0,0,0,1,0,0,,,,,,,,,,,,,,CROATIA,,,,,,,,,,0,0,1,,Croatia
+,Curaçao,CW,North America,50,,,,,,,,,1,0,0,1,,,,,,,,,,,1,0,0,0,,,,,,,,1,,1,,,,,,,CURAÇAO,1,0,0,0,0,0,0,1,0,,,,,,,,,,,,,,CURAÇAO,,,,,,,,,,0,0,1,0,Curaçao
+,Czech Republic,CZ,Europe,100,,,,,,,,,1,0,0,1,,,,,1,,,,,,0,0,0,1,,,,,,1,,1,,,,,1,,,,CZECH REPUBLIC,0,0,1,0,0,0,1,0,0,,,,,,,,,,,,,,CZECH REPUBLIC,,1,,,,,,,,0,0,1,,Czech Republic
+,Denmark,DK,Europe,200,,,,,,,,,1,0,0,1,,,,,1,,,,,,0,0,0,1,,,,,,1,,1,,,,,1,,,,DENMARK,0,0,1,0,0,0,1,0,0,,,,,,,,,,,,,,DENMARK,,0.5,1,,,,,,,0,1,1,,Denmark
+,Dominican Republic,DO,North America,100,,,,,,,,,1,0,0,1,,,,,,,1,,,,1,0,0,0,,,1,,,,,1,,1,,,,,,,DOMINICAN REP.,1,0,0,0,0,0,0,1,0,,,,,,,,,,,,,,DOMINICAN REP.,,0.5,,,,,,,,0,0,1,0,Dominican Republic
+,Ecuador,EC,South America,150,,,,,,,,,1,0,0,1,,,,,,,1,,,,0,0,0,1,,,1,,,,,0.5,0.5,1,,,,,,,ECUADOR,1,0,0,0,0,0,0,1,0,,,,,,,,,,,,,,ECUADOR,,0.5,,,,,,,,0,0,1,0,Ecuador
+,Estonia,EE,Europe,100,,,,,,,,,1,0,0,1,,,,,1,,,,,,0,0,0,1,,,,,,1,,1,,,,,1,,,,ESTONIA,0,0,1,0,0,0,1,0,0,,,,,,,,,,,,,,ESTONIA,,,,,,,,,,0,0,1,,Estonia
+,Eswatini,SZ,Africa,100,,,,,,,,,0,1,0,1,,,,,,,,,,,0,0,0,1,,1,,,,,,,1,,,,,,,,ESWATINI,0,1,0,0,0,0,1,0,0,,,,,,,,,,,,,,ESWATINI,,,,,,,,,,0,0,1,,Eswatini
+,Faroe Islands,FO,Europe,51,,,,,,,,,1,0,1,0,,,,1,1,,,,,,0,0,0,1,,,,,,1,,1,,,,,1,,,,FAROE ISLANDS,0,0,1,0,0,0,1,0,0,,,,,,,,,,,,,,FAROE ISLANDS,,,,,,,,,,0,0,1,,Faroe Islands
+,Finland,FI,Europe,186,,,,,,,,,1,0,0,1,,,,,1,,,,,,0,0,0,1,,,,,,1,,1,,,,,1,,,,FINLAND,0.5,0,1,0,0,0,0.5,1,0,,,,,,,,,,,,,,FINLAND,,,,,,,,,,0,1,1,,Finland
+,France,FR,Europe,300,,,,,,,,,1,0,1,0,,,,,1,,,,,,0,0,0,1,,,,,,1,,1,,,,,1,,0.25,,FRANCE,0,0,1,0,0,0,1,0,0,,,,,,,,,,,,,,FRANCE,1,0.5,,,,,,,,0,1,1,,France
+,Germany,DE,Europe,200,,,,,,,,,1,0,1,0,,,,,1,,,,,,0,0,0,1,,,,,,1,,1,,,,,1,,,,GERMANY,0,0,1,0,0,0,1,0,0,,,,,,,,,,,,,,GERMANY,,,,,,,,,,0,1,0,,Germany
+,Ghana,GH,Africa,200,,,,,,,,,1,0,0,1,,,,1,,,,,,,0,0,0,1,,1,,,,,,1,,1,,,,,,,GHANA,0,0,1,0,0,0,1,0,0,,,,,,,,,,,,,,GHANA,,,,,,,,,,0,0,1,,Ghana
+,Greece,GR,Europe,200,,,,,,,,,1,0,0,1,,,,,1,,,,,,0.5,0,0,1,1,,,,,1,,1,,,,,1,,,,GREECE,0,0,1,0,0,0,1,0,0,,,,,,,,,,,,,,GREECE,,1,,,,,,,,0,1,1,,Greece
+,Greenland,GL,Europe,25,,,,,,,,,1,0,0,1,,,,1,1,,,,,,0,0,0,1,,,,,,,,1,,,,,0,,,,GREENLAND,0,0,1,0,0,0,1,0,0,,,,,,,,,,,,,,GREENLAND,,,,,,,,,,0,0,1,,Greenland
+,Guatemala,GT,North America,200,,,,,,,,,1,0,0,1,,,,1,,1,,,,,0,0,0,1,,,1,,,,,1,,1,,,,,,,GUATEMALA,1,0,0,0,0,0,0,1,0,,,,,,,,,,,,,,GUATEMALA,,0.5,,,,,,,,0,0,1,0,Guatemala
+,Hungary,HU,Europe,100,,,,,,,,,1,0,1,0,,,,,1,,,,,,0,0,0,1,,,,,,1,,1,,,,,1,,,,HUNGARIA,0,0,1,0,0,0,1,0,0,,,,,,,,,,,,,,HUNGARIA,,1,,,,,,,,0,0,1,,Hungary
+,Iceland,IS,Europe,200,,,,,,,,,1,0,0,1,,,,,1,,,,,,0,0,0,1,,,,,,1,,1,,,,,0,,,,ICELAND,0,0,1,0,0,0,1,0,0,,,,,,,,,,,,,,ICELAND,,,,,,,,,,0,0,1,,Iceland
+,India,IN,Asia,25,,,,,,,,,0,1,0,1,,,,,,,,,,,0,0,0,0.5,,1,,,,,,1,,0.5,,,,,,,INDIA,0,0,1,0,0,0,1,0,0,,,,,,,,,,,,,,INDIA,,,,,,,,,,0,0,1,,India
+,Indonesia,ID,Asia,200,,,,,,,,,0,1,0,1,,,,,,,,,,,0,0,0,1,,,,,,,,1,1,1,,,,,,,INDONESIA,0.5,0.1,0.5,0,0,0,0.5,0.5,0,,,,,,,,,,,,,,INDONESIA,,1,,,,,,,,0,0,1,,Indonesia
+,Ireland,IE,Europe,200,,,,,,,,,0,1,1,0,,,,,1,,,,,,0,0,0,1,,1,,,,1,,1,,,,,1,,,,IRELAND,0,0,1,0,0,0,1,0,0,,,,,,,,,,,,,,IRELAND,,,,,,,,,,0,1,1,,Ireland
+,Israel / Palestine,IS,Asia,200,,,,,,,,,1,0,0,1,,,,,,,,,,,0,0,1,0,,,,,,1,,1,,,1,,,,,,ISRAEL / PALESTINE,0,1,0,0,0,0,1,0,0,,,,,,,,,,,,,,ISRAEL / PALESTINE,,,,,,,,,,0,0,1,,Israel / Palestine
+,Italy,IT,Europe,200,,,,,,,,,1,0,0,1,,,,,1,,,,,,0,0,0,1,,,,,,1,,1,,,,,0,,1,,ITALY,0,0,1,0,0,0,1,0,0,,,,,,,,,,,,,,ITALY,,1,,,,,,,,0,1,1,,Italy
+,Japan,JP,Asia,350,,,,,,,,,0,1,0,1,,,,,,,,,,,0,0,0,0,1,,,,,,,1,,,0.5,,,,,,JAPAN,0,0,1,0,0,0,1,0,0,,,,,,,,,,,,,,JAPAN,,,,,,,,,,0,1,1,,Japan
+,Jordan,JO,Asia,200,,,,,,,,,1,0,0,1,,,,,,,,,,,0,0,1,0,,,,,,,,1,,,,,,,,,JORDAN,0,1,0,0,0,0,1,0,0,,,,,,,,,,,,,,JORDAN,,,,,,,,,,0,0,1,,Jordan
+,Kenya,KE,Africa,200,,,,,,,,,0,1,0,1,,,,1,,,,,,,0,0,0,1,,1,,,,1,,0.5,0.5,1,1,,,,,,KENYA,1,0,0,0,0,0,0,1,0,,,,,,,,,,,,,,KENYA,,,,,,,,,,0,0,1,,Kenya
+,Kyrgyzstan,KG,Asia,100,,,,,,,,,1,0,0,1,,,,1,,,,,,,1,0,0,0,,,,,,,,1,,,,,,,,,KYRGYZSTAN,0,0,1,0,0,0,1,0,0,,,,,,,,,,,,,,KYRGYZSTAN,,,,,,,,,,0,0,1,,Kyrgyzstan
+,Laos,LA,Asia,100,,,,,,,,,1,0,0,1,,,,1,,,,,,,0,1,0,0,,,,,,,,1,,1,1,,,,,,LAOS,0,0,1,0,0,0,1,0,0,,,,,,,,,,,,,,LAOS,,,,,,,,,,0,0,1,,Laos
+,Latvia,LV,Europe,100,,,,,,,,,1,0,0,1,,,,,1,,,,,,0,0,0,1,,,,,,1,,1,,,,,1,,,,LATVIA,0,0,1,0,0,0,1,0,0,,,,,,,,,,,,,,LATVIA,,,,,,,,,,0,0,1,,Latvia
+,Lebanon,LB,Asia,5,,,,,,,,,1,0,0,1,,,,,,,,,,,0,0,0,1,,,,,,,,1,,,,,,,,,LEBANON,0,0,1,0,0,0,1,0,0,,,,,,,,,,,,,,LEBANON,,,,,,,,,,0,0,1,,Lebanon
+,Lesotho,LI,Africa,100,,,,,,,,,0,1,0,1,,,,,,,,,,,0,0,0,1,,1,,,,,,,1,,,,,,,,LESOTHO,0,1,0,0,0,0,1,0,0,,,,,,,,,,,,,,LESOTHO,,,,,,,,,,0,0,1,,Lesotho
+,Lithuania,LT,Europe,100,,,,,,,,,1,0,0,1,,,,,1,,,,,,0,0,0,1,,,,,,1,,1,,,,,1,,,,LITHUANIA,0,0,1,0,0,0,1,0,0,,,,,,,,,,,,,,LITHUANIA,,,,,,,,,,0,0,1,,Lithuania
+,Luxembourg,LU,Europe,100,,,,,,,,,1,0,1,0,,,,,1,,,,,,0,0,0,1,,,,,,1,,1,,,1,,1,,,,LUXEMBURG,0,0,1,0,0,0,1,0,0,,,,,,,,,,,,,,LUXEMBURG,1,,,,,,,,,0,1,0,,Luxembourg
+,Macedonia,MK,Europe,100,,,,,,,,,1,0,0,1,,,,,1,,,,,,1,0,0,0,,,,,,1,,1,,,,,1,,,,NORTH. MACEDONIA,0,0,1,0,0,0,1,0,0,,,,,,,,,,,,,,NORTH. MACEDONIA,,,,,,,,,,0,0,1,,Macedonia
+,Malaysia,MY,Asia,200,,,,,,,,,0,1,0,1,,,,,,,,,,,0,0,0,1,,,,,,1,,1,,1,,,,,,,MALAYSIA,0,0,1,0,0,0,1,0,0,,,,,,,,,,,,,,MALAYSIA,,1,,,,,,,,0,0,1,,Malaysia
+,Malta,MT,Europe,50,,,,,,,,,1,0,1,0,,,,,1,,,,,,0,0,0,1,,1,,,,1,,1,,,,,1,,,,MALTA,0,0,1,0,0,0,1,0,0,,,,,,,,,,,,,,MALTA,,,,,,,,,,0,0,1,,Malta
+,Mexico,MX,North America,500,,,,,,,,,1,0,0,1,,,,,,1,,,,,0,0,0,1,,,1,,,,,1,,0.5,,,,,,,MEXICO,1,0,0,0,0,0,0,1,0,,,,,,,,,,,,,,MEXICO,,0.5,,,,,,,,0,1,1,1,Mexico
+,Mongolia,MN,Asia,100,,,,,,,,,1,0,0,1,,,,1,,,,,,,1,0,0,0,,,,,,,,1,,,,,,,,,MONGOLIA,0,0,1,0,0,0,1,0,0,,,,,,,,,,,,,,MONGOLIA,,,,,,,,,,0,0,1,,Mongolia
+,Montenegro,ME,Europe,100,,,,,,,,,1,0,0,1,,,,,1,,,,,,1,0,0,0,,,,,,1,,1,,,,,0.5,,0.5,,MONTENEGRO,0,0,1,0,0,0,1,0,0,,,,,,,,,,,,,,MONTENEGRO,,,,,,,,,,0,0,1,,Montenegro
+,Netherlands,NL,Europe,100,,,,,,,,,1,0,1,0,,,,,1,,,,,,0,0,0,1,,,,,,1,,1,,,1,,1,,,,NETHERLANDS,0,0,1,0,0,0,1,0,0,,,,,,,,,,,,,,NETHERLANDS,1,1,,,,,,,,0,1,1,,Netherlands
+,New Zealand,NZ,Oceana,300,,,,,,,,,0,1,0,1,,,,,1,,,,,,0,0,0,1,,1,,,,,,,1,,,,,,,,NEW ZEALAND,1,0,1,0,1,0,0.5,1,0,,,,,,,,,,,,,,NEW ZEALAND,,,,,,,,,,1,1,1,0,New Zealand
+,Nigeria,NG,Africa,200,,,,,,,,,1,0,0,1,,,,,,,,,,,0,0,0,1,,1,,,,,,1,,1,,,,,,,NIGERIA,0,1,0,0,0,0,1,0,0,,,,,,,,,,,,,,NIGERIA,,,,,,,,,,0,0,1,,Nigeria
+,Norway,NO,Europe,200,,,,,,,,,1,0,1,0,,,,,1,,,,,,0,0,0,1,,,,,,1,,1,,,,,1,,,,NORWAY,0,0,1,0,0,1,1,0,0,,,,,,,,,,,,,,NORWAY,,,,,,,,,,0,1,1,,Norway
+,Peru,PE,South America,300,,,,,,,,,1,0,0,1,,,,,,,1,,,,0,0,0,1,,,1,,,,,,1,1,,,,,,,PERU,1,0,0,0,0,0,0,1,0,,,,,,,,,,,,,,PERU,,0.5,,,,,,,,0,0,1,0,Peru
+,Philippines,PH,Asia,200,,,,,,,,,1,0,0,1,,,,,1,,,,,,0,0,0,1,,1,,,,,,1,,1,,,,,,,PHILLIPINES,0,0,1,0,0,0,1,0,0,,,,,,,,,,,,,,PHILLIPINES,,,,,,,,,,0,0,1,,Philippines
+,Poland,PL,Europe,200,,,,,,,,,1,0,1,0,,,,,1,,,,,,0,0,0,1,,,,,,1,,1,,,,,1,,,,POLAND,0,0,1,0,0,0,1,0,0,,,,,,,,,,,,,,POLAND,,,,,,,,,,0,0,1,,Poland
+,Portugal,PT,Europe,200,,,,,,,,,1,0,1,0,,,,,1,,,,,,0,0,0,1,,,,,,1,,1,,,,,0.25,,,1,PORTUGAL,0,0,1,0,0,0,1,0,0,,,,,,,,,,,,,,PORTUGAL,,1,,,,,,,,0,1,1,,Portugal
+,Puerto Rico,PR,North America,50,,,,,,,,,1,0,0,1,,,,,,,1,,,,1,0,0,0,,,1,,,,,1,,1,,,,,,,PUERTO RICO,1,0,0,0,0,0,0,1,0,,,,,,,,,,,,,,PUERTO RICO,,0.5,,,,,,,,0,0,1,0,Puerto Rico
+,Romania,RO,Europe,200,,,,,,,,,1,0,0,1,,,,,1,,,,,,0,0,0,1,,,,,,1,,1,,,,,1,,,,ROMANIA,0,0,1,0,0,0,1,0,0,,,,,,,,,,,,,,ROMANIA,,0.5,,,,,,,,0,0,1,,Romania
+,Russia,RU,Europe,250,,,,,,,,,1,0,0,1,,,,,1,,,,,,1,0,0,0,,,,,,1,,1,,,,,0,,,,RUSSIA,0,0,1,0,0,0,1,0,0,,,,,,,,,,,,,,RUSSIA,,,,,,,,,,0,0,1,,Russia
+,Senegal,SN,Africa,200,,,,,,,,,1,0,0,1,,,,1,,,,,,,0,0,0,1,,,,,,,,1,,1,,,,,,,SENEGAL,0,0,1,0,0,0,1,0,0,,,,,,,,,,,,,,SENEGAL,,,,,,,,,,0,0,1,,Senegal
+,Serbia,RS,Europe,100,,,,,,,,,1,0,0,1,,,,,1,,,,,,1,0,0,0,,,,,,1,,1,,,,,0.5,,,,SERBIA,0,0,1,0,0,0,1,0,0,,,,,,,,,,,,,,SERBIA,,0.5,,,,,,,,0,0,1,,Serbia
+,Slovakia,SK,Europe,100,,,,,,,,,1,0,0,1,,,,,1,,,,,,0,0,0,1,,,,,,1,,1,,,,,1,,,,SLOVAKIA,0,0,1,0,0,0,1,0,0,,,,,,,,,,,,,,SLOVAKIA,,1,,,,,,,,0,0,1,,Slovakia
+,Slovenia,SI,Europe,100,,,,,,,,,1,0,0,1,,,,,1,,,,,,0,0,0,1,,,,,,1,,1,,,,,1,,,,SLOVENIA,0,0,1,0,0,0,1,0,0,,,,,,,,,,,,,,SLOVENIA,,1,,,,,,,,0,0,1,,Slovenia
+,South Africa,ZA,Africa,350,,,,,,,,,0,1,0,1,,,,,,,,,,,0,0,0,1,,1,,,,,,,1,0.5,,,,,,,SOUTH AFRICA,0,1,0,0,0,0,1,0,0,,,,,,,,,,,,,,SOUTH AFRICA,,,,,,,,,,0,1,1,,South Africa
+,South Korea,KR,Asia,200,,,,,,,,,1,0,0,1,,,,,,,,,,,0,0,0,0,,,,,,,,1,,,,,,,,,SOUTH KOREA,0.5,0,0.5,0,0,0,0.5,0.5,0,,,,,,,,,,,,,,SOUTH KOREA,,,,,,,,,,0,0,1,,South Korea
+,Sri Lanka,LK,Asia,200,,,,,,,,,0,1,0,1,,,,,,,,,,,0,0,0,0.2,1,,,,,,,1,,1,,,,,,,SRI LANKA,0,0,1,0,0,0,1,0,0,,,,,,,,,,,,,,SRI LANKA,,,,,,,,,,0,0,1,,Sri Lanka
+,Sweden,SE,Europe,200,,,,,,,,,1,0,0,1,,,,,1,,,,,,0,0,0,1,,,,,,1,,1,,,,,1,,,,SWEDEN,0,0,1,0,0,1,1,0,0,,,,,,,,,,,,,,SWEDEN,,,,,,,,,,0,1,1,,Sweden
+,Switzerland,CH,Europe,150,,,,,,,,,1,0,0,1,,,,,1,,,,,,0,0,0,1,,,,,,1,,1,,,,,0,,,,SWIZTERLAND,0,0,1,0,0,0,1,0,0,,,,,,,,,,,,,,SWIZTERLAND,,0.5,,,,,,,,0,0,1,,Switzerland
+,Taiwan,TW,Asia,200,,,,,,,,,1,0,0,1,,,,,,,,,,,0,0,0,0,1,,,,,,,1,,1,,,,,,,TAIWAN,0.5,0,0.5,0,0,0,0.5,0.5,0,,,,,,,,,,,,,,TAIWAN,,,,,,,,,,0,1,1,,Taiwan
+,Thailand,TH,Asia,200,,,,,,,,,0,1,0,1,,,,,,,,,,1,0,1,0,0,,,,,,,,1,,0.5,,,,,,,THAILAND,1,0,0,0,0,0,0,1,0,,,,,,,,,,,,,,THAILAND,,,,,,,,,,0,0,1,,Thailand
+,Tunisia,TN,Africa,200,,,,,,,,,1,0,0,1,,,,,,,,,,,0,0,1,0,,,,,,1,,,,,,,,1,,,TUNISIA,0,0,1,0,0,0,1,0,0,,,,,,,,,,,,,,TUNISIA,,,,,,,,,,0,0,1,,Tunisia
+,Turkey,TR,Europe,200,,,,,,,,,1,0,0,1,,,,,1,,,,,,0,0,0,1,,,,,,1,,1,,,,,1,,,,TURKEY,0,0,1,0,0,0,1,0,0,,,,,,,,,,,,,,TURKEY,,0.25,,,,,,,,0,0,1,,Turkey
+,Uganda,UG,Africa,100,,,,,,,,,0,1,0,1,,,,1,,,,,,,0,0,0,1,,1,,,,,,1,,1,1,,,,,,UGANDA,0,0,1,0,0,0,1,0,0,,,,,,,,,,,,,,UGANDA,,,,,,,,,,0,0,1,,Uganda
+,Ukraine,UA,Europe,100,,,,,,,,,1,0,0,1,,,,,1,,,,,,1,0,0,0,,,,,,1,,1,,,,,0.5,,,,UKRAINE,0,0,1,0,0,0,1,0,0,,,,,,,,,,,,,,UKRAINE,,,,,,,,,,0,0,1,,Ukraine
+,United Arab Emirates,AE,Asia,200,,,,,,,,,1,0,0,1,,,,,,,,,,,0,0,1,0,,1,,,,,,1,,,,,,,,,EMIRATES,0,0,1,0,0,0,1,0,0,,,,,,,,,,,,,,EMIRATES,,,,,,,,,,0,0,1,,United Arab Emirates
+,United Kingdom,GB,Europe,300,,,,,,,,,0,1,1,0,,,,,1,,,,,,0,0,0,1,,1,,,,1,,1,,,1,,1,,,,UNITED KINGDOM,0,0.1,1,0,0,0,1,0,0,,,,,,,,,,,,,,UNITED KINGDOM,1,,,,,,,,,0,1,1,,United Kingdom
+,United States,US,North America,1200,,,,,,,,,1,0,0,1,,,,,1,,,,,,0,0,0,1,,1,,,,,,1,,0.05,0.1,,,,,,U.S.A.,1,0,0,0,0,0,0,1,0,,,,,,,,,,,,,,U.S.A.,0.3,,,,,,,,,1,1,1,1,United States
+,Uruguay,UY,South America,150,,,,,,,,,1,0,0,1,,,,,,,1,,,,0,0,0,1,,,1,,,1,,,1,1,,,,,,,URUGUAY,0,0,1,0,0,0,1,0,0,,,,,,,,,,,,,,URUGUAY,,0.5,,,,,,,,0,0,1,0,Uruguay
+,Vietnam,VN,Asia,100,,,,,,,,,1,0,0,1,,,,,,,,,,1,0,0,0,1,,,,,,,,1,,1,,,,,,,VIETNAM,1,0.5,0,0.1,0,0,0,1,0,,,,,,,,,,,,,,VIETNAM,,,,,,,,,,0,0,1,,Vietnam
